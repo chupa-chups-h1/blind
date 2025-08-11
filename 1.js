@@ -1,1 +1,1 @@
-alert()
+<img src=x onerror=prompt()>
