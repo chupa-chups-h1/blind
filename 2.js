@@ -1,1 +1,1 @@
-<img src=x onerror=prompt()>
+document.write('<img src=x onerror=prompt()>');
