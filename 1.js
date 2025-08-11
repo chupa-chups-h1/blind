@@ -1,1 +1,1 @@
-"><script>alert()</script>
+"><img src=x onerror=prompt()>
